@@ -1,2 +1,3 @@
-# core
-The core Bootstrapper
+# Bootstrapper\Core
+
+TODO

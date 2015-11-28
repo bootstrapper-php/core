@@ -1,0 +1,7 @@
+suites:
+    bootstrapper_suite:
+        namespace: Bootstrapper
+        psr4_prefix: Bootstrapper
+        src_path: src
+        spec_path: tests
+        spec_prefix: spec
